@@ -50,11 +50,4 @@
 		</pluginManagement>
 	</build>
 
-	<scm>
-		<developerConnection>
-			scm:git:git@github.com:yoanybejarano/sf-pet-clinic.git
-		</developerConnection>
-	  <tag>sf-pet-clinic-0.0.1</tag>
-  </scm>
-
 </project>
